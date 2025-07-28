@@ -2,7 +2,7 @@ import json
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-API_TOKEN = "7318448295:AAHPA00xLXj2aVQ7v8ExByYsctrWo_CXXDU"
+API_TOKEN = "7502578588:AAFFMb6y_JQR9DIym53NktS7Xv8Z1HTzmzI"
 ADMIN_IDS = [6677489688, 6433016654, 7043011107]  # ✅ All admins listed here
 DATA_FILE = "channels.json"
 
